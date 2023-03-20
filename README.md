@@ -1,16 +1,14 @@
-# flutter_application_2
+## Command lines:(https://docs.flutter.dev/reference/flutter-cli)
+```bash
+$ flutter analyze
+$ flutter test
+$ flutter run lib/main.dart
+```
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## TODO List
+<ul>
+<li><del>Firend list/detail, include use HttpClient get data, route to detail page with params~~</li>
+<li><del>Tabs</li>
+<li>Splash screen</li>
+<li>Login page</li>
+</ul>
